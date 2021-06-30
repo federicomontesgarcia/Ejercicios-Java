@@ -13,8 +13,5 @@ public class Ejercicio5 {
         String num = (numero % 2 == 0) ? "par" : "impar";
         System.out.println("el numero " + numero + " es " + num);
 
-        
-
-
     }
 }
