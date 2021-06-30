@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "miPrimerProyecto/src",
+        "matematicas/src",
+        "cadenas/src",
+        "capturaDatos/src",
+        "ventanaDialogo/src",
+        "ejerciciosUnidad1/src"
+    ]
+}
