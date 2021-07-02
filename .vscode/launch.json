@@ -1,0 +1,202 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Ejercicio8",
+            "request": "launch",
+            "mainClass": "Ejercicio8",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cadenas1",
+            "request": "launch",
+            "mainClass": "Cadenas1",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClaseMath",
+            "request": "launch",
+            "mainClass": "ClaseMath",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejemplo1",
+            "request": "launch",
+            "mainClass": "Ejemplo1",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejemplo2",
+            "request": "launch",
+            "mainClass": "Ejemplo2",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejemplo3",
+            "request": "launch",
+            "mainClass": "Ejemplo3",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejemplo4",
+            "request": "launch",
+            "mainClass": "Ejemplo4",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejemplo5",
+            "request": "launch",
+            "mainClass": "Ejemplo5",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejemplo6",
+            "request": "launch",
+            "mainClass": "Ejemplo6",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio1",
+            "request": "launch",
+            "mainClass": "Ejercicio1",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio2",
+            "request": "launch",
+            "mainClass": "Ejercicio2",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio3",
+            "request": "launch",
+            "mainClass": "Ejercicio3",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio4",
+            "request": "launch",
+            "mainClass": "Ejercicio4",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio5",
+            "request": "launch",
+            "mainClass": "Ejercicio5",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio6",
+            "request": "launch",
+            "mainClass": "Ejercicio6",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio7",
+            "request": "launch",
+            "mainClass": "Ejercicio7",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lectura1",
+            "request": "launch",
+            "mainClass": "Lectura1",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ventana1",
+            "request": "launch",
+            "mainClass": "Ventana1",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ventana2",
+            "request": "launch",
+            "mainClass": "Ventana2",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch texto",
+            "request": "launch",
+            "mainClass": "texto",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch App(1)",
+            "request": "launch",
+            "mainClass": "com.fede.example.App",
+            "projectName": "simple-app2"
+        },
+        {
+            "type": "java",
+            "name": "Launch App(2)",
+            "request": "launch",
+            "mainClass": "com.fede.example.App",
+            "projectName": "simple-app"
+        }
+    ]
+}

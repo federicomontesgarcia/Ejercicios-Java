@@ -1,13 +1,19 @@
 import java.util.Scanner;
 
 public class Ejercicio4 {
-    
     public static void main(String[] args) {
-        Scanner lecturaConsola = new Scanner(System.in);
-        System.out.println("Ingrese el valor de la temperatura en grados centígrados: ");
-        float C = lecturaConsola.nextFloat();
-        float gradosF = 32 + (9 * (C/5));
-        System.out.println("el valor en grados Fahrenheith es: " + gradosF + " grados");
-        lecturaConsola.close();
+        Scanner datoNumero = new Scanner(System.in);
+        System.out.println("Ingrese un numero entero: ");
+        int numero = datoNumero.nextInt();
+        TablaMult(numero);
+        datoNumero.close();
+    }
+    public static void TablaMult(int numero) {
+        int x;
+        System.out.println("la tabla del " + numero + " es: ");
+        for(x=0; x <= 10; x++) {
+            int tabla = numero * x;
+            System.out.println(numero + " x "  + x + " = " + tabla);
+        }
     }
 }

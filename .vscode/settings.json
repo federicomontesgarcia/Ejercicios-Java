@@ -5,6 +5,7 @@
         "cadenas/src",
         "capturaDatos/src",
         "ventanaDialogo/src",
+        "ejemplos/src",
         "ejerciciosUnidad1/src"
     ]
 }
