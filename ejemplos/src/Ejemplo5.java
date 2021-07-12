@@ -1,3 +1,4 @@
+//verificar si un número es par o impar
 import java.util.Scanner;
 
 public class Ejemplo5 {

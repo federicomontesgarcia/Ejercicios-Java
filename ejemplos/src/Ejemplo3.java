@@ -1,3 +1,4 @@
+//imprimir el doble y el triple de un número
 import java.util.Scanner;
 
 public class Ejemplo3 {

@@ -1,3 +1,4 @@
+//funcion saludar
 import java.util.Scanner;
 
 public class Ejemplo1 {

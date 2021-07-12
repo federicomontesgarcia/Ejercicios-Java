@@ -1,11 +1,16 @@
 {
     "java.project.sourcePaths": [
+        "ventanaDialogo/src",
         "miPrimerProyecto/src",
         "matematicas/src",
-        "cadenas/src",
-        "capturaDatos/src",
-        "ventanaDialogo/src",
+        "ejerciciosUnidad1/src",
         "ejemplos/src",
-        "ejerciciosUnidad1/src"
+        "condicionalMultiple/src",
+        "ciclos/src",
+        "capturaDatos/src",
+        "cadenas/src",
+        "POO/src/param/param",
+        "POO/src/figuras",
+        "POO/src"
     ]
 }

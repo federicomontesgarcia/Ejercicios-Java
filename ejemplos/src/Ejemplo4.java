@@ -1,3 +1,4 @@
+//pasar de grados fahrenheit a centigrados
 import java.util.Scanner;
 
 public class Ejemplo4 {

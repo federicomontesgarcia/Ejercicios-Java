@@ -6,6 +6,153 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Venta",
+            "request": "launch",
+            "mainClass": "Taquilla.Venta",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProgEmpleado",
+            "request": "launch",
+            "mainClass": "clase3.ProgEmpleado",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaTotal",
+            "request": "launch",
+            "mainClass": "figuras.AreaTotal",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaTotal",
+            "request": "launch",
+            "mainClass": "AreaTotal",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejemplo8",
+            "request": "launch",
+            "mainClass": "Ejemplo8",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program",
+            "request": "launch",
+            "mainClass": "Program",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Triangulos",
+            "request": "launch",
+            "mainClass": "Triangulos",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Triangulos",
+            "request": "launch",
+            "mainClass": "figuras.Triangulos",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch EjemconParam",
+            "request": "launch",
+            "mainClass": "param.EjemconParam",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch EjemconParam",
+            "request": "launch",
+            "mainClass": "EjemconParam",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejemplo",
+            "request": "launch",
+            "mainClass": "figuras.Ejemplo",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejemplo",
+            "request": "launch",
+            "mainClass": "Ejemplo",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejemplo7",
+            "request": "launch",
+            "mainClass": "Ejemplo7",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch cicloForEach",
+            "request": "launch",
+            "mainClass": "cicloForEach",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch cicloFor",
+            "request": "launch",
+            "mainClass": "cicloFor",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch cicloDoWhile",
+            "request": "launch",
+            "mainClass": "cicloDoWhile",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch cicloWhile",
+            "request": "launch",
+            "mainClass": "cicloWhile",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch cicloWhile",
+            "request": "launch",
+            "mainClass": "src.cicloWhile",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch CondicionalWhile",
+            "request": "launch",
+            "mainClass": "CondicionalWhile",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio10",
+            "request": "launch",
+            "mainClass": "Ejercicio10",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio9",
+            "request": "launch",
+            "mainClass": "Ejercicio9",
+            "projectName": "Ejercicios Java_bf3700a2"
+        },
+        {
+            "type": "java",
             "name": "Launch Ejercicio8",
             "request": "launch",
             "mainClass": "Ejercicio8",

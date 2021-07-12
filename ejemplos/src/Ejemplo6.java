@@ -1,3 +1,4 @@
+//calcular número de la suerte
 import java.util.Scanner;
 
 //clase de prueba
